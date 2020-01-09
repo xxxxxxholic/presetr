@@ -1,0 +1,61 @@
+{
+    "order": 5,
+    "name": "Coffee",
+    "type": 1,
+    "isCharged": 1,
+    "price": 2.99,
+    "displayName": "Coffee",
+    "abbreviation": "COF",
+    "description": "The main color of this filter bag is warm brown coffee color, the color is harmonious and unified, and it is not uniform, with rich details and surprising skin color performance, very eye-catching. It can render a very warm atmosphere, suitable for summer photos and photos taken at sunset.",
+    "cover": "CO.jpg",
+    "filters": [
+        {
+            "order": 1,
+            "lut": "CO01.png",
+            "preview": "CO01.jpg",
+            "thumbnail": "CO01.jpg"
+        },
+        {
+            "order": 2,
+            "lut": "CO02.png",
+            "preview": "CO02.jpg",
+            "thumbnail": "CO02.jpg"
+        },
+        {
+            "order": 3,
+            "lut": "CO03.jpg",
+            "preview": "CO03.jpg",
+            "thumbnail": "CO03.jpg"
+        },
+        {
+            "order": 4,
+            "lut": "CO04.png",
+            "preview": "CO04.jpg",
+            "thumbnail": "CO04.jpg"
+        },
+        {
+            "order": 5,
+            "lut": "CO05.png",
+            "preview": "CO05.jpg",
+            "thumbnail": "CO05.jpg"
+        },
+        {
+            "order": 6,
+            "lut": "CO06.png",
+            "preview": "CO06.jpg",
+            "thumbnail": "CO06.jpg"
+        },
+        {
+            "order": 7,
+            "lut": "CO07.png",
+            "preview": "CO07.jpg",
+            "thumbnail": "CO07.jpg"
+        },
+        {
+            "order": 8,
+            "lut": "CO08.png",
+            "preview": "CO08.jpg",
+            "thumbnail": "CO08.jpg"
+        }
+    ]
+}

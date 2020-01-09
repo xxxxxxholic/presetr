@@ -1,0 +1,61 @@
+{
+    "order": 12,
+    "name": "OceanSand",
+    "type": 1,
+    "isCharged": 1,
+    "price": 2.99,
+    "displayName": "Ocean Sand",
+    "abbreviation": "OS",
+    "description": "This preset pack is perfect for pictures taken on the beach. Through the contrast of white sand and bronze skin, it shows a simple aesthetic, it is worth trying.",
+    "cover": "OC.jpg",
+    "filters": [
+        {
+            "order": 1,
+            "lut": "OC01.jpg",
+            "preview": "OC01.jpg",
+            "thumbnail": "OC01.jpg"
+        },
+        {
+            "order": 2,
+            "lut": "OC02.jpg",
+            "preview": "OC02.jpg",
+            "thumbnail": "OC02.jpg"
+        },
+        {
+            "order": 3,
+            "lut": "OC03.jpg",
+            "preview": "OC03.jpg",
+            "thumbnail": "OC03.jpg"
+        },
+        {
+            "order": 4,
+            "lut": "OC04.jpg",
+            "preview": "OC04.jpg",
+            "thumbnail": "OC04.jpg"
+        },
+        {
+            "order": 5,
+            "lut": "OC05.jpg",
+            "preview": "OC05.jpg",
+            "thumbnail": "OC05.jpg"
+        },
+        {
+            "order": 6,
+            "lut": "OC06.jpg",
+            "preview": "OC06.jpg",
+            "thumbnail": "OC06.jpg"
+        },
+        {
+            "order": 7,
+            "lut": "OC07.jpg",
+            "preview": "OC07.jpg",
+            "thumbnail": "OC07.jpg"
+        },
+        {
+            "order": 8,
+            "lut": "OC08.jpg",
+            "preview": "OC08.jpg",
+            "thumbnail": "OC08.jpg"
+        }
+    ]
+}

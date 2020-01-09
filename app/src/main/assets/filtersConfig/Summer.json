@@ -1,0 +1,79 @@
+{
+    "order": 15,
+    "name": "Summer",
+    "type": 1,
+    "isCharged": 1,
+    "price": 2.99,
+    "displayName": "Summer",
+    "abbreviation": "SU",
+    "description": "Summer means energy and vitality. This filter pack is bright and lively, with high brightness and high saturation. It is suitable for sunny days, beaches, and any scenery with plenty of light.",
+    "cover": "1.jpg",
+    "filters": [
+        {
+            "order": 1,
+            "lut": "1.png",
+            "preview": "1.jpg",
+            "thumbnail": "1.jpg"
+        },
+        {
+            "order": 2,
+            "lut": "10.png",
+            "preview": "10.jpg",
+            "thumbnail": "10.jpg"
+        },
+        {
+            "order": 3,
+            "lut": "11.png",
+            "preview": "11.jpg",
+            "thumbnail": "11.jpg"
+        },
+        {
+            "order": 4,
+            "lut": "12.png",
+            "preview": "12.jpg",
+            "thumbnail": "12.jpg"
+        },
+        {
+            "order": 5,
+            "lut": "13.png",
+            "preview": "13.jpg",
+            "thumbnail": "13.jpg"
+        },
+        {
+            "order": 6,
+            "lut": "14.png",
+            "preview": "14.jpg",
+            "thumbnail": "14.jpg"
+        },
+        {
+            "order": 7,
+            "lut": "15.png",
+            "preview": "15.jpg",
+            "thumbnail": "15.jpg"
+        },
+        {
+            "order": 8,
+            "lut": "3.png",
+            "preview": "3.jpg",
+            "thumbnail": "3.jpg"
+        },
+        {
+            "order": 9,
+            "lut": "4.png",
+            "preview": "4.jpg",
+            "thumbnail": "4.jpg"
+        },
+        {
+            "order": 10,
+            "lut": "6.png",
+            "preview": "6.jpg",
+            "thumbnail": "6.jpg"
+        },
+        {
+            "order": 11,
+            "lut": "7.png",
+            "preview": "7.jpg",
+            "thumbnail": "7.jpg"
+        }
+    ]
+}

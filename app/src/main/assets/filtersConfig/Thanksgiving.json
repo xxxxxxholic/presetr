@@ -1,0 +1,61 @@
+{
+    "order": 17,
+    "name": "Thanksgiving",
+    "type": 1,
+    "isCharged": 1,
+    "price": 2.99,
+    "displayName": "Thanksgiving",
+    "abbreviation": "TH",
+    "description": "We optimize the family reunion theme and warm colors that often appear in Thanksgiving photos. This preset pack is making it ideal for family dinners or family parties.",
+    "cover": "TH.jpg",
+    "filters": [
+        {
+            "order": 1,
+            "lut": "TH01.jpg",
+            "preview": "TH01.jpg",
+            "thumbnail": "TH01.jpg"
+        },
+        {
+            "order": 2,
+            "lut": "TH02.jpg",
+            "preview": "TH02.jpg",
+            "thumbnail": "TH02.jpg"
+        },
+        {
+            "order": 3,
+            "lut": "TH03.jpg",
+            "preview": "TH03.jpg",
+            "thumbnail": "TH03.jpg"
+        },
+        {
+            "order": 4,
+            "lut": "TH04.jpg",
+            "preview": "TH04.jpg",
+            "thumbnail": "TH04.jpg"
+        },
+        {
+            "order": 5,
+            "lut": "TH05.jpg",
+            "preview": "TH05.jpg",
+            "thumbnail": "TH05.jpg"
+        },
+        {
+            "order": 6,
+            "lut": "TH06.jpg",
+            "preview": "TH06.jpg",
+            "thumbnail": "TH06.jpg"
+        },
+        {
+            "order": 7,
+            "lut": "TH07.jpg",
+            "preview": "TH07.jpg",
+            "thumbnail": "TH07.jpg"
+        },
+        {
+            "order": 8,
+            "lut": "TH08.jpg",
+            "preview": "TH08.jpg",
+            "thumbnail": "TH08.jpg"
+        }
+    ]
+}

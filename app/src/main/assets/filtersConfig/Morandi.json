@@ -1,0 +1,67 @@
+{
+    "order": 11,
+    "name": "Morandi",
+    "type": 1,
+    "isCharged": 1,
+    "price": 2.99,
+    "displayName": "Morandi",
+    "abbreviation": "MO",
+    "description": "Morandi is a famous painter. His color scheme is known for its low saturation and low brightness. The color of the picture is gentle and very eye-catching. Use this preset package to bring peace of mind.",
+    "cover": "Morandi.png",
+    "filters": [
+        {
+            "order": 1,
+            "lut": "MO01.jpg",
+            "preview": "MO01.png",
+            "thumbnail": "MO01.png"
+        },
+        {
+            "order": 2,
+            "lut": "MO02.jpg",
+            "preview": "MO02.png",
+            "thumbnail": "MO02.png"
+        },
+        {
+            "order": 3,
+            "lut": "MO03.jpg",
+            "preview": "MO03.png",
+            "thumbnail": "MO03.png"
+        },
+        {
+            "order": 4,
+            "lut": "MO04.jpg",
+            "preview": "MO04.jpg",
+            "thumbnail": "MO04.png"
+        },
+        {
+            "order": 5,
+            "lut": "MO05.jpg",
+            "preview": "MO05.png",
+            "thumbnail": "MO05.png"
+        },
+        {
+            "order": 6,
+            "lut": "MO06.jpg",
+            "preview": "MO06.png",
+            "thumbnail": "MO06.png"
+        },
+        {
+            "order": 7,
+            "lut": "MO07.jpg",
+            "preview": "MO07.png",
+            "thumbnail": "MO07.png"
+        },
+        {
+            "order": 8,
+            "lut": "MO08.jpg",
+            "preview": "MO08.png",
+            "thumbnail": "MO08.png"
+        },
+        {
+            "order": 9,
+            "lut": "MO09.jpg",
+            "preview": "MO09.jpg",
+            "thumbnail": "MO09.png"
+        }
+    ]
+}

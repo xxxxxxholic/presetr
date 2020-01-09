@@ -1,0 +1,61 @@
+{
+    "order": 2,
+    "name": "BaliBay",
+    "type": 1,
+    "isCharged": 1,
+    "price": 1.99,
+    "displayName": "Bali Bay",
+    "abbreviation": "BY",
+    "description": "Bali is a pearl of the Pacific Ocean and has always attracted people's attention. Professional photographers have inspired this from the main shades of Bali. The main colors are mainly orange and dark green, with excellent color transitions and detailed textures, making them ideal for photographs with botanical elements.",
+    "cover": "BA.jpg",
+    "filters": [
+        {
+            "order": 1,
+            "lut": "BA01.jpg",
+            "preview": "BA01.jpg",
+            "thumbnail": "BA01.jpg"
+        },
+        {
+            "order": 2,
+            "lut": "BA02.jpg",
+            "preview": "BA02.jpg",
+            "thumbnail": "BA02.jpg"
+        },
+        {
+            "order": 3,
+            "lut": "BA03.jpg",
+            "preview": "BA03.jpg",
+            "thumbnail": "BA03.jpg"
+        },
+        {
+            "order": 4,
+            "lut": "BA04.jpg",
+            "preview": "BA04.jpg",
+            "thumbnail": "BA04.jpg"
+        },
+        {
+            "order": 5,
+            "lut": "BA05.jpg",
+            "preview": "BA05.jpg",
+            "thumbnail": "BA05.jpg"
+        },
+        {
+            "order": 6,
+            "lut": "BA06.jpg",
+            "preview": "BA06.jpg",
+            "thumbnail": "BA06.jpg"
+        },
+        {
+            "order": 7,
+            "lut": "BA07.jpg",
+            "preview": "BA07.jpg",
+            "thumbnail": "BA07.jpg"
+        },
+        {
+            "order": 8,
+            "lut": "BA08.jpg",
+            "preview": "BA08.jpg",
+            "thumbnail": "BA08.jpg"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "order": 4,
+    "name": "Blogger",
+    "type": 1,
+    "isCharged": 0,
+    "price": 0,
+    "displayName": "Blogger",
+    "abbreviation": "BL",
+    "description": "This is a collection of classic filters carefully designed and selected by professional photographers. We will have more and more good looking filters, so let's explore!",
+    "cover": "BL.jpg",
+    "filters": [
+        {
+            "order": 1,
+            "lut": "BL01.jpg",
+            "preview": "BL01.jpg",
+            "thumbnail": "BL01.jpg"
+        },
+        {
+            "order": 2,
+            "lut": "BL02.jpg",
+            "preview": "BL02.jpg",
+            "thumbnail": "BL02.jpg"
+        },
+        {
+            "order": 3,
+            "lut": "BL03.jpg",
+            "preview": "BL03.jpg",
+            "thumbnail": "BL03.jpg"
+        },
+        {
+            "order": 4,
+            "lut": "BL04.jpg",
+            "preview": "BL04.jpg",
+            "thumbnail": "BL04.jpg"
+        },
+        {
+            "order": 5,
+            "lut": "BL05.jpg",
+            "preview": "BL05.jpg",
+            "thumbnail": "BL05.jpg"
+        },
+        {
+            "order": 6,
+            "lut": "BL06.jpg",
+            "preview": "BL06.jpg",
+            "thumbnail": "BL06.jpg"
+        },
+        {
+            "order": 7,
+            "lut": "BL07.jpg",
+            "preview": "BL07.jpg",
+            "thumbnail": "BL07.jpg"
+        },
+        {
+            "order": 8,
+            "lut": "BL08.jpg",
+            "preview": "BL08.jpg",
+            "thumbnail": "BL08.jpg"
+        }
+    ]
+}

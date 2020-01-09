@@ -1,0 +1,61 @@
+{
+    "order": 6,
+    "name": "Cyberpunk",
+    "type": 1,
+    "isCharged": 1,
+    "price": 2.99,
+    "displayName": "Cyberpunk",
+    "abbreviation": "CY",
+    "description": "Welcome to the dream world of the future. This preset pack draws inspiration from outstanding sci-fi movies, with purple and dark blue as the main color, highlighting the technological sense and futuristic of the picture, ideal for night city architectural photos.",
+    "cover": "CY.jpg",
+    "filters": [
+        {
+            "order": 1,
+            "lut": "CU01.jpg",
+            "preview": "CY01.jpg",
+            "thumbnail": "CY01.jpg"
+        },
+        {
+            "order": 2,
+            "lut": "CU02.jpg",
+            "preview": "CY02.jpg",
+            "thumbnail": "CY02.jpg"
+        },
+        {
+            "order": 3,
+            "lut": "CU03.jpg",
+            "preview": "CY03.jpg",
+            "thumbnail": "CY03.jpg"
+        },
+        {
+            "order": 4,
+            "lut": "CU04.jpg",
+            "preview": "CY04.jpg",
+            "thumbnail": "CY04.jpg"
+        },
+        {
+            "order": 5,
+            "lut": "CU05.jpg",
+            "preview": "CY05.jpg",
+            "thumbnail": "CY05.jpg"
+        },
+        {
+            "order": 6,
+            "lut": "CU06.jpg",
+            "preview": "CY06.jpg",
+            "thumbnail": "CY06.jpg"
+        },
+        {
+            "order": 7,
+            "lut": "CU07.jpg",
+            "preview": "CY07.jpg",
+            "thumbnail": "CY07.jpg"
+        },
+        {
+            "order": 8,
+            "lut": "CU08.jpg",
+            "preview": "CY08.jpg",
+            "thumbnail": "CY08.jpg"
+        }
+    ]
+}

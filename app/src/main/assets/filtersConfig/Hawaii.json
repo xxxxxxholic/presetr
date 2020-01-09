@@ -1,0 +1,67 @@
+{
+    "order": 8,
+    "name": "Hawaii",
+    "type": 1,
+    "isCharged": 1,
+    "price": 2.99,
+    "displayName": "Hawaii",
+    "abbreviation": "HA",
+    "description": "The contrast of teal-and-orange is widely used in the color grading because of its delicate restoration of skin tone and the spectacular effect of oceans and sky. This filter pack is recommended for photos on sunny days and beaches.",
+    "cover": "1.jpg",
+    "filters": [
+        {
+            "order": 1,
+            "lut": "1.jpg",
+            "preview": "1.jpg",
+            "thumbnail": "1.jpg"
+        },
+        {
+            "order": 2,
+            "lut": "2.jpg",
+            "preview": "2.jpg",
+            "thumbnail": "2.jpg"
+        },
+        {
+            "order": 3,
+            "lut": "3.jpg",
+            "preview": "3.jpg",
+            "thumbnail": "3.jpg"
+        },
+        {
+            "order": 4,
+            "lut": "4.jpg",
+            "preview": "4.jpg",
+            "thumbnail": "4.jpg"
+        },
+        {
+            "order": 5,
+            "lut": "5.jpg",
+            "preview": "5.jpg",
+            "thumbnail": "5.jpg"
+        },
+        {
+            "order": 6,
+            "lut": "6.jpg",
+            "preview": "6.jpg",
+            "thumbnail": "6.jpg"
+        },
+        {
+            "order": 7,
+            "lut": "7.jpg",
+            "preview": "7.jpg",
+            "thumbnail": "7.jpg"
+        },
+        {
+            "order": 8,
+            "lut": "8.jpg",
+            "preview": "8.jpg",
+            "thumbnail": "8.jpg"
+        },
+        {
+            "order": 9,
+            "lut": "9.jpg",
+            "preview": "9.jpg",
+            "thumbnail": "9.jpg"
+        }
+    ]
+}

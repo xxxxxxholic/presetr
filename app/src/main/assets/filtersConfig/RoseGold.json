@@ -1,0 +1,61 @@
+{
+    "order": 14,
+    "name": "RoseGold",
+    "type": 1,
+    "isCharged": 1,
+    "price": 2.99,
+    "displayName": "Rose Gold",
+    "abbreviation": "RG",
+    "description": "We draw inspiration from the common colors of cosmetics and feminine accessories. This filter is ideal for glass-themed objects or pink-based photos, and the whole picture is very noble and luxurious.",
+    "cover": "cover.jpg",
+    "filters": [
+        {
+            "order": 1,
+            "lut": "RG01.jpg",
+            "preview": "RG01.jpg",
+            "thumbnail": "RG01.jpg"
+        },
+        {
+            "order": 2,
+            "lut": "RG02.jpg",
+            "preview": "RG02.jpg",
+            "thumbnail": "RG02.jpg"
+        },
+        {
+            "order": 3,
+            "lut": "RG03.jpg",
+            "preview": "RG03.jpg",
+            "thumbnail": "RG03.jpg"
+        },
+        {
+            "order": 4,
+            "lut": "RG04.jpg",
+            "preview": "RG04.jpg",
+            "thumbnail": "RG04.jpg"
+        },
+        {
+            "order": 5,
+            "lut": "RG05.jpg",
+            "preview": "RG05.jpg",
+            "thumbnail": "RG05.jpg"
+        },
+        {
+            "order": 6,
+            "lut": "RG06.jpg",
+            "preview": "RG06.jpg",
+            "thumbnail": "RG06.jpg"
+        },
+        {
+            "order": 7,
+            "lut": "RG07.jpg",
+            "preview": "RG07.jpg",
+            "thumbnail": "RG07.jpg"
+        },
+        {
+            "order": 8,
+            "lut": "RG08.jpg",
+            "preview": "RG08.jpg",
+            "thumbnail": "RG08.jpg"
+        }
+    ]
+}

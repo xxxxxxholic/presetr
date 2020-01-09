@@ -1,0 +1,61 @@
+{
+    "order": 9,
+    "name": "InstaStyle",
+    "type": 1,
+    "isCharged": 0,
+    "price": 0,
+    "displayName": "Insta Style",
+    "abbreviation": "IS",
+    "description": "This preset pack is simple ,stylish, and has a good adaptability to all kinds of scenes. Suitable for portraits, scenery and other subjects, is the best choice for you to choose a filter.",
+    "cover": "IN.jpg",
+    "filters": [
+        {
+            "order": 1,
+            "lut": "IN01.jpg",
+            "preview": "IN01.jpg",
+            "thumbnail": "IN01.jpg"
+        },
+        {
+            "order": 2,
+            "lut": "IN02.jpg",
+            "preview": "IN02.jpg",
+            "thumbnail": "IN02.jpg"
+        },
+        {
+            "order": 3,
+            "lut": "IN03.jpg",
+            "preview": "IN03.jpg",
+            "thumbnail": "IN03.jpg"
+        },
+        {
+            "order": 4,
+            "lut": "IN04.jpg",
+            "preview": "IN04.jpg",
+            "thumbnail": "IN04.jpg"
+        },
+        {
+            "order": 5,
+            "lut": "IN05.jpg",
+            "preview": "IN05.jpg",
+            "thumbnail": "IN05.jpg"
+        },
+        {
+            "order": 6,
+            "lut": "IN06.jpg",
+            "preview": "IN06.jpg",
+            "thumbnail": "IN06.jpg"
+        },
+        {
+            "order": 7,
+            "lut": "IN07.jpg",
+            "preview": "IN07.jpg",
+            "thumbnail": "IN07.jpg"
+        },
+        {
+            "order": 8,
+            "lut": "IN08.jpg",
+            "preview": "IN08.jpg",
+            "thumbnail": "IN08.jpg"
+        }
+    ]
+}

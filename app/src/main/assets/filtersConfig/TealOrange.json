@@ -1,0 +1,73 @@
+{
+    "order": 16,
+    "name": "TealOrange",
+    "type": 1,
+    "isCharged": 1,
+    "price": 2.99,
+    "displayName": "Teal & Orange",
+    "abbreviation": "TO",
+    "description": "Imagine that every photo of you can be as full of cinematic and beautiful as Sam Kolder's video? This preset pack is for you. It is managed in teal-orange color grading and is suitable for photos of sunny or seaside beaches.",
+    "cover": "attractive-beautiful-beauty-2766396.jpg",
+    "filters": [
+        {
+            "order": 1,
+            "lut": "TO1.jpg",
+            "preview": "adult-beautiful-blond-hair-1130626.jpg",
+            "thumbnail": "Teal&Orange1.jpg"
+        },
+        {
+            "order": 2,
+            "lut": "TO10.jpg",
+            "preview": "alcohol-bottle-beach-bottle-2344583.jpg",
+            "thumbnail": "Teal&Orange10.jpg"
+        },
+        {
+            "order": 3,
+            "lut": "TO2.jpg",
+            "preview": "architecture-breakwater-building-2762673.jpg",
+            "thumbnail": "Teal&Orange2.jpg"
+        },
+        {
+            "order": 4,
+            "lut": "TO3.jpg",
+            "preview": "architecture-building-carousel-2675268.jpg",
+            "thumbnail": "Teal&Orange3.jpg"
+        },
+        {
+            "order": 5,
+            "lut": "TO4.jpg",
+            "preview": "architecture-buildings-castle-2412000.jpg",
+            "thumbnail": "Teal&Orange4.jpg"
+        },
+        {
+            "order": 6,
+            "lut": "TO5.jpg",
+            "preview": "architecture-buildings-city-2277887.jpg",
+            "thumbnail": "Teal&Orange5.jpg"
+        },
+        {
+            "order": 7,
+            "lut": "TO6.jpg",
+            "preview": "bay-beach-blue-sky-2180425.jpg",
+            "thumbnail": "Teal&Orange6.jpg"
+        },
+        {
+            "order": 8,
+            "lut": "TO7.jpg",
+            "preview": "beach-beautiful-clouds-2365700.jpg",
+            "thumbnail": "Teal&Orange7.jpg"
+        },
+        {
+            "order": 9,
+            "lut": "TO8.jpg",
+            "preview": "beach-couple-daylight-2549082.jpg",
+            "thumbnail": "Teal&Orange8.jpg"
+        },
+        {
+            "order": 10,
+            "lut": "TO9.jpg",
+            "preview": "christopher-campbell-va0YmkIFtPA-unsplash.jpg",
+            "thumbnail": "Teal&Orange9.jpg"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "order": 13,
+    "name": "Retro",
+    "type": 1,
+    "isCharged": 1,
+    "price": 2.99,
+    "displayName": "Retro",
+    "abbreviation": "RE",
+    "description": "This preset pack is perfect for photos with blue and red elements, and it has amazing performance for other colors, reflecting a strong film texture and worth a try.",
+    "cover": "RE.png",
+    "filters": [
+        {
+            "order": 1,
+            "lut": "RE01.jpg",
+            "preview": "RE01.jpg",
+            "thumbnail": "RE01.jpg"
+        },
+        {
+            "order": 2,
+            "lut": "RE02.jpg",
+            "preview": "RE02.jpg",
+            "thumbnail": "RE02.jpg"
+        },
+        {
+            "order": 3,
+            "lut": "RE03.jpg",
+            "preview": "RE03.jpg",
+            "thumbnail": "RE03.jpg"
+        },
+        {
+            "order": 4,
+            "lut": "RE04.jpg",
+            "preview": "RE04.jpg",
+            "thumbnail": "RE04.jpg"
+        },
+        {
+            "order": 5,
+            "lut": "RE05.jpg",
+            "preview": "RE05.jpg",
+            "thumbnail": "RE05.jpg"
+        },
+        {
+            "order": 6,
+            "lut": "RE06.jpg",
+            "preview": "RE06.jpg",
+            "thumbnail": "RE06.jpg"
+        },
+        {
+            "order": 7,
+            "lut": "RE07.jpg",
+            "preview": "RE07.jpg",
+            "thumbnail": "RE07.jpg"
+        },
+        {
+            "order": 8,
+            "lut": "RE08.jpg",
+            "preview": "RE08.jpg",
+            "thumbnail": "RE08.jpg"
+        }
+    ]
+}

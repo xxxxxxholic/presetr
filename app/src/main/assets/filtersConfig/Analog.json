@@ -1,0 +1,61 @@
+{
+    "order": 1,
+    "name": "Analog",
+    "type": 1,
+    "isCharged": 1,
+    "price": 2.99,
+    "displayName": "Analog",
+    "abbreviation": "AN",
+    "description": "This filter pack will get you back twenty years ago! The style of this filter pack is based on the historically famous color film style. It has very distinctive features, bright colors and strong contrast. It is very suitable for still life and street style portraits.",
+    "cover": "cover.jpg",
+    "filters": [
+        {
+            "order": 1,
+            "lut": "AN01.jpg",
+            "preview": "AN01.jpg",
+            "thumbnail": "AN01.jpg"
+        },
+        {
+            "order": 2,
+            "lut": "AN02.jpg",
+            "preview": "AN02.jpg",
+            "thumbnail": "AN02.jpg"
+        },
+        {
+            "order": 3,
+            "lut": "AN03.jpg",
+            "preview": "AN03.jpg",
+            "thumbnail": "AN03.jpg"
+        },
+        {
+            "order": 4,
+            "lut": "AN04.jpg",
+            "preview": "AN04.jpg",
+            "thumbnail": "AN04.jpg"
+        },
+        {
+            "order": 5,
+            "lut": "AN05.jpg",
+            "preview": "AN05.jpg",
+            "thumbnail": "AN05.jpg"
+        },
+        {
+            "order": 6,
+            "lut": "AN06.jpg",
+            "preview": "AN06.jpg",
+            "thumbnail": "AN06.jpg"
+        },
+        {
+            "order": 7,
+            "lut": "AN07.jpg",
+            "preview": "AN07.jpg",
+            "thumbnail": "AN07.jpg"
+        },
+        {
+            "order": 8,
+            "lut": "AN08.jpg",
+            "preview": "AN08.jpg",
+            "thumbnail": "AN08.jpg"
+        }
+    ]
+}

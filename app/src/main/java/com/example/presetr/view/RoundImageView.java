@@ -1,0 +1,60 @@
+package com.example.presetr.view;
+
+import android.content.Context;
+import android.content.res.TypedArray;
+import android.graphics.Canvas;
+import android.graphics.Color;
+import android.graphics.Paint;
+import android.graphics.Path;
+import android.graphics.PorterDuff;
+import android.graphics.PorterDuffXfermode;
+import android.graphics.RectF;
+import android.util.AttributeSet;
+
+import androidx.appcompat.widget.AppCompatImageView;
+
+import com.example.presetr.R;
+
+public class RoundImageView extends AppCompatImageView{
+
+    float width,height;
+
+    public RoundImageView(Context context) {
+        this(context, null);
+    }
+
+    public RoundImageView(Context context, AttributeSet attrs) {
+        this(context, attrs, 0);
+    }
+
+    public RoundImageView(Context context, AttributeSet attrs, int defStyleAttr) {
+        super(context, attrs, defStyleAttr);
+    }
+
+    @Override
+    protected void onLayout(boolean changed, int left, int top, int right, int bottom) {
+        super.onLayout(changed, left, top, right, bottom);
+        width = getWidth();
+        height = getHeight();
+    }
+
+    @Override
+    protected void onDraw(Canvas canvas) {
+
+        if (width > 12 && height > 12) {
+            Path path = new Path();
+            path.moveTo(12, 0);
+            path.lineTo(width - 12, 0);
+            path.quadTo(width, 0, width, 12);
+            path.lineTo(width, height - 12);
+            path.quadTo(width, height, width - 12, height);
+            path.lineTo(12, height);
+            path.quadTo(0, height, 0, height - 12);
+            path.lineTo(0, 12);
+            path.quadTo(0, 0, 12, 0);
+            canvas.clipPath(path);
+        }
+
+        super.onDraw(canvas);
+    }
+}

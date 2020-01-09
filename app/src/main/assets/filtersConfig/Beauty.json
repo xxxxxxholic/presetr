@@ -1,0 +1,67 @@
+{
+    "order": 3,
+    "name": "Beauty",
+    "type": 1,
+    "isCharged": 0,
+    "price": 0,
+    "displayName": "Beauty",
+    "abbreviation": "BE",
+    "description": "This preset pack is full of bright, fresh breath, with high brightness, bright colors, and excellent skin color. Ideal for Asian-inspired photos or portraits of women.",
+    "cover": "Beauty.png",
+    "filters": [
+        {
+            "order": 1,
+            "lut": "BE01.jpg",
+            "preview": "1.png",
+            "thumbnail": "BE01.png"
+        },
+        {
+            "order": 2,
+            "lut": "BE02.jpg",
+            "preview": "2.png",
+            "thumbnail": "BE02.png"
+        },
+        {
+            "order": 3,
+            "lut": "BE03.jpg",
+            "preview": "3.png",
+            "thumbnail": "BE03.png"
+        },
+        {
+            "order": 4,
+            "lut": "BE04.jpg",
+            "preview": "4.png",
+            "thumbnail": "BE04.png"
+        },
+        {
+            "order": 5,
+            "lut": "BE05.jpg",
+            "preview": "5.png",
+            "thumbnail": "BE05.png"
+        },
+        {
+            "order": 6,
+            "lut": "BE06.jpg",
+            "preview": "6.jpg",
+            "thumbnail": "BE06.png"
+        },
+        {
+            "order": 7,
+            "lut": "BE07.jpg",
+            "preview": "7.png",
+            "thumbnail": "BE07.png"
+        },
+        {
+            "order": 8,
+            "lut": "BE08.jpg",
+            "preview": "8.png",
+            "thumbnail": "BE08.png"
+        },
+        {
+            "order": 9,
+            "lut": "BE09.jpg",
+            "preview": "9.png",
+            "thumbnail": "BE09.png"
+        }
+    ]
+}

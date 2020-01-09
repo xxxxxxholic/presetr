@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CropControllerView">
+        <attr name="mShape" format="string"/>
+        <attr name="crop_wight" format="dimension"/>
+        <attr name="crop_height" format="dimension"/>
+    </declare-styleable>
+</resources>

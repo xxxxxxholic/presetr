@@ -1,0 +1,61 @@
+{
+    "order": 10,
+    "name": "Lemonade",
+    "type": 1,
+    "isCharged": 1,
+    "price": 2.99,
+    "displayName": "Lemonade",
+    "abbreviation": "LE",
+    "description": "This preset pack is inspired by the bright, vibrant lemon yellow, characterized by high brightness, bright and fresh, especially suitable for summer or a bright blue sky.",
+    "cover": "LE.jpg",
+    "filters": [
+        {
+            "order": 1,
+            "lut": "LE01.jpg",
+            "preview": "LE01.jpg",
+            "thumbnail": "LE01.jpg"
+        },
+        {
+            "order": 2,
+            "lut": "LE02.jpg",
+            "preview": "LE02.jpg",
+            "thumbnail": "LE02.jpg"
+        },
+        {
+            "order": 3,
+            "lut": "LE03.jpg",
+            "preview": "LE03.jpg",
+            "thumbnail": "LE03.jpg"
+        },
+        {
+            "order": 4,
+            "lut": "LE04.jpg",
+            "preview": "LE04.jpg",
+            "thumbnail": "LE04.jpg"
+        },
+        {
+            "order": 5,
+            "lut": "LE05.jpg",
+            "preview": "LE05.jpg",
+            "thumbnail": "LE05.jpg"
+        },
+        {
+            "order": 6,
+            "lut": "LE06.jpg",
+            "preview": "LE06.jpg",
+            "thumbnail": "LE06.jpg"
+        },
+        {
+            "order": 7,
+            "lut": "LE07.jpg",
+            "preview": "LE07.jpg",
+            "thumbnail": "LE07.jpg"
+        },
+        {
+            "order": 8,
+            "lut": "LE08.jpg",
+            "preview": "LE08.jpg",
+            "thumbnail": "LE08.jpg"
+        }
+    ]
+}
