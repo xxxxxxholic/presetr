@@ -376,6 +376,8 @@ public class EditSelectLayout extends LinearLayout {
 
     private void clickTile(View view) {
         notifyEditTextColorChange(tabTiltIconName);
+        activity.getFilter().setBackOld(1);
+        activity.getDiyImage().setFilter(activity.getFilter());
         cropSelectLayout.setVisibility(INVISIBLE);
         rotateSelectLayout.setVisibility(VISIBLE);
         rotateEditBar.setVisibility(VISIBLE);

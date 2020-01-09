@@ -16,6 +16,7 @@ import com.example.presetr.MyApplication;
 import com.example.presetr.R;
 import com.example.presetr.activity.BaseActivity;
 import com.example.presetr.activity.FilterPreviewActivity;
+import com.example.presetr.activity.PurchaseActivity;
 import com.example.presetr.model.FilterPackageBean;
 
 import java.util.List;
@@ -45,14 +46,22 @@ public class MainFilterAdapter extends RecyclerView.Adapter<MainFilterAdapter.Vi
             super(itemView);
             ButterKnife.bind(this,itemView);
             filter_pic.setOnClickListener(this);
+            filter_purchase.setOnClickListener(this);
         }
 
         @Override
         public void onClick(View v) {
             BaseActivity activity = (BaseActivity) v.getContext();
-            Bundle bundle = new Bundle();
-            bundle.putString("filter_name",filter_name.getText().toString());
-            activity.startActivity(FilterPreviewActivity.class,bundle);
+            switch (v.getId()) {
+                case R.id.item_filter_pic:
+                    Bundle bundle = new Bundle();
+                    bundle.putString("filter_name", filter_name.getText().toString());
+                    activity.startActivity(FilterPreviewActivity.class, bundle);
+                    break;
+                case R.id.item_filter_purchase:
+                    activity.startActivity(PurchaseActivity.class);
+                    break;
+            }
         }
     }
     @NonNull

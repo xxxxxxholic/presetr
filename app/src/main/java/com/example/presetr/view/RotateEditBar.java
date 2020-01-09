@@ -42,6 +42,7 @@ public class RotateEditBar extends ConstraintLayout implements View.OnTouchListe
     private float curr_dis;
     private Bitmap cur_bitmap;
 
+    private boolean isFirstEdit = true;
 
 
     public int getProgress() {
@@ -110,8 +111,9 @@ public class RotateEditBar extends ConstraintLayout implements View.OnTouchListe
 //                    int ro_Rotation = activity.getCropSelectCustomLayout().getRo_Rotation();
                     activity.getCropSelectCustomLayout().setTileRotation(progress);
 
-                    if(cur_bitmap==null) {
+                    if(isFirstEdit==true) {
                         cur_bitmap = activity.getCur_bitmap();
+                        isFirstEdit = false;
                     }
 
                     Matrix matrix = new Matrix();
@@ -148,6 +150,7 @@ public class RotateEditBar extends ConstraintLayout implements View.OnTouchListe
                 matrix.setRotate(progress);
                 Bitmap bitmap1 = Bitmap.createBitmap(cur_bitmap,0,0,cur_bitmap.getWidth(),cur_bitmap.getHeight(),matrix,false);
                 activity.setCur_bitmap(bitmap1);//activity.getDiyImage().getGPUImage().getBitmapWithFilterApplied()
+                isFirstEdit = true;
                 break;
         }
     }

@@ -258,7 +258,7 @@ public class DiyActivity extends BaseActivity implements View.OnTouchListener {
         diyImageSource.setImageBitmap(sourceBitmap);
         diyImage.setScaleType(GPUImage.ScaleType.CENTER_INSIDE);
 
-        diyImage.setImage(cur_bitmap);
+        diyImage.setImage(Bitmap.createBitmap(cur_bitmap));
         filter = new GPUImageLookupFilter();
         if (filter_position >= 0) {
             FilterBean bean = MyApplication.filterBeans.get(filter_position);

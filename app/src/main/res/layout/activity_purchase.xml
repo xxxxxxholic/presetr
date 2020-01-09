@@ -53,11 +53,17 @@
             android:layout_marginRight="20dp"
             app:layout_constraintTop_toTopOf="parent"/>
     </androidx.constraintlayout.widget.ConstraintLayout>
-    <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/purchase_recycleView"
+
+<!--    <androidx.viewpager.widget.ViewPager-->
+<!--        android:id="@+id/purchase_recycleView"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginTop="20dp"-->
+<!--        app:layout_constraintTop_toBottomOf="@id/actionbar_layout"/>-->
+    <com.example.presetr.view.MyViewPager
+        android:id="@+id/purchase_viewPager"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
+        android:layout_height="250dp"
         app:layout_constraintTop_toBottomOf="@id/actionbar_layout"/>
     <TextView
         android:id="@+id/content"
@@ -68,7 +74,7 @@
         android:textColor="@color/appNameColor"
         android:textSize="12sp"
         android:layout_marginTop="20dp"
-        app:layout_constraintTop_toBottomOf="@id/purchase_recycleView"
+        app:layout_constraintTop_toBottomOf="@id/purchase_viewPager"
         android:text=
             "- 1000+ fine tuning PRO presets\n- 300+ specially designed overlays\n
 - Access all PRO Tools &amp; remove ads"/>
@@ -79,6 +85,7 @@
         app:layout_constraintTop_toBottomOf="@id/content">
 
         <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/purchase_month_layout"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1">
@@ -112,6 +119,7 @@
                 android:layout_marginBottom="40dp"/>
         </androidx.constraintlayout.widget.ConstraintLayout>
         <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/purchase_year_layout"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1">
@@ -156,6 +164,7 @@
         </androidx.constraintlayout.widget.ConstraintLayout>
 
         <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/purchase_vip_layout"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1">

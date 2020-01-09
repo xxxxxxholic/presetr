@@ -9,8 +9,7 @@
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/main_action_bar"
         android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1">
+        android:layout_height="45dp">
         <ImageView
             android:id="@+id/main_setting_view"
             android:layout_width="24dp"

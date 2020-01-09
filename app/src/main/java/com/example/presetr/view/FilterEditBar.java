@@ -138,7 +138,7 @@ public class FilterEditBar extends ConstraintLayout implements View.OnTouchListe
                 activity.getFilterSelectCustomLayout().getPicAdapter().notifyItemChanged(0, 1);
                 setVisibility(INVISIBLE);
                 break;
-            case R.id.filter_edit_bar_confirm:
+            case R.id.filter_edit_bar_confirm: ;
                 activity.setCur_bitmap(activity.getDiyImage().getGPUImage().getBitmapWithFilterApplied());
                 activity.getDiyImage().getGPUImage().deleteImage();
                 activity.getDiyImage().setImage(activity.getCur_bitmap());

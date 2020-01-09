@@ -17,7 +17,6 @@
         android:roundIcon="@mipmap/icon_camera"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.NoActionBar">
-        <activity android:name=".activity.DarkroomActivity"></activity>
         <activity android:name=".activity.PurchaseActivity" />
         <activity android:name=".activity.SaveActivity" />
         <activity android:name=".activity.DiyActivity" />

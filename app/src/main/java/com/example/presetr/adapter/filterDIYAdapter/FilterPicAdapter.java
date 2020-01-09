@@ -106,6 +106,8 @@ public class FilterPicAdapter extends RecyclerView.Adapter<FilterPicAdapter.View
             if(getAdapterPosition()!=0) {
                 activity.getFilterDiyEditBar().setVisibility(View.VISIBLE);
                 activity.getFilter().setBackOld(0);
+                activity.setFilter(activity.getFilter());
+                Bitmap bm = activity.getDiyImage().getGPUImage().getBitmapWithFilterApplied();
                 activity.getFilterDiyEditBar().setProgress((int) (activity.getFilter().intensity*100));
             }
         }
